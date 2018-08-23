@@ -1,0 +1,19 @@
+{
+  "name": "fantasy_usage",
+  "version": "0.0.1",
+  "description": "Usage of Rambda and Ramda Fantasy",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "node index.js"
+  },
+  "author": "Alexander van der Werff",
+  "license": "ISC",
+  "dependencies": {
+    "ramda": "^0.25.0",
+    "ramda-fantasy": "^0.8.0"
+  },
+  "devDependencies": {
+    "babel-plugin-transform-object-rest-spread": "^6.26.0"
+  }
+}

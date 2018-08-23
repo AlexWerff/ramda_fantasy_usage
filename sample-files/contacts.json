@@ -1,0 +1,9 @@
+[{
+    "firstname": "Test",
+    "lastname": "User",
+    "phone": "01234",
+    "address": {
+        "street": "teststreet",
+        "city": "testcity"
+    }
+}]
